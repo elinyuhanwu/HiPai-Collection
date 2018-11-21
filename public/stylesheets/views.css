@@ -1,0 +1,17 @@
+.container2{
+	margin: 20px 15%;
+	border: 1px solid #57595D;
+}
+
+.image1 img{
+    width: 100%;
+    height: auto;
+}
+
+div p{
+	margin-top: 10px;
+	margin-left: 5px;
+	font-size: 100;
+	font-family: Lato;
+	color: #57595D;
+}
