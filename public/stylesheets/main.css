@@ -1,8 +1,11 @@
+nav{
+	color: #57595D;
+}
+
 body{
 	background: url(https://images.unsplash.com/photo-1498712938623-d2bee166c195?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=857781bfd61bf934a265f9ac0e24e01b&auto=format&fit=crop&w=900&q=60);
     background-size: cover;
     background-position: center;
-    font-family: Lato;
     color: white;
 }
 

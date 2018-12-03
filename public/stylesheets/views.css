@@ -1,9 +1,19 @@
 .container2{
-	margin: 20px 15%;
-	border: 1px solid #57595D;
+	margin: 30px 25%;
+	border: 1px solid #DCDCDC;
 }
 
-.image1 img{
+.container-address{
+	margin: 20px;
+	text-align: center;
+}
+
+.container-map{
+	margin: 20px 20%;
+	border: 2px solid #DCDCDC;
+}
+
+div.image1 img{
     width: 100%;
     height: auto;
 }
@@ -14,4 +24,47 @@ div p{
 	font-size: 100;
 	font-family: Lato;
 	color: #57595D;
+}
+h5{
+	color: #57595D;
+}
+
+a{
+	color: #57595D;
+}
+
+.navbar-text{
+	color: #57595D;
+}
+
+ul{
+	list-style-position: outside;
+	color: #57595D;
+}
+
+table{
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+thead{
+	background-color: #57595D;
+	color: white;
+}
+tbody{
+	color: #57595D;
+}
+
+.map-responsive{
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
 }
