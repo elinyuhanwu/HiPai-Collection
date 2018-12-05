@@ -13,7 +13,7 @@
 	border: 2px solid #DCDCDC;
 }
 
-div.image1 img{
+.image1 img{
     width: 100%;
     height: auto;
 }
@@ -47,6 +47,15 @@ table{
 	margin-left: auto;
 	text-align: center;
 }
+
+td:hover{
+	transform: scale(1.25);
+}
+
+.card:hover{
+	transform: scale(1.05);
+}
+
 thead{
 	background-color: #57595D;
 	color: white;
