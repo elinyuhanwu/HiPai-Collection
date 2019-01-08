@@ -1,5 +1,5 @@
 # HiPai-Collection<br>
 Side Project<br>
-<h1>HiPai Official Website</h1>
-<p>A simple showcase webiste</p>
-<p>Using bootstrap, HTML, CSS to create a website.<p>
+<p>HiPai Official Website<br>
+A simple showcase webiste<br>
+Using bootstrap, HTML, CSS to create a website.<p>
