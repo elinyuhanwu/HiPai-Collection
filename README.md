@@ -26,7 +26,7 @@ If you're new to front-end development, its really nice for you to improve your 
 
 ![schools](./img/schools.png)
 
-![flow](./img/flow.png)
+![flows](./img/flows.png)
 
 ## Issues
 Feel free to report the issue :0
