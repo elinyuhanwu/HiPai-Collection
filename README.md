@@ -22,6 +22,7 @@ If you're new to front-end development, its really nice for you to improve your 
   
 ## Display
 
+![index](./img/index.png)
 
 ## Issues
 Feel free to report the issue :0
