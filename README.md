@@ -24,6 +24,10 @@ If you're new to front-end development, its really nice for you to improve your 
 
 ![index](./img/index.png)
 
+![schools](./img/schools.png)
+
+![flow](./img/flow.png)
+
 ## Issues
 Feel free to report the issue :0
 
